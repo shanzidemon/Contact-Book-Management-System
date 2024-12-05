@@ -5,4 +5,4 @@ def display_menu():
     print("3. Search Contacts")
     print("4. Remove Contact")
     print("5. Exit")
-    return input("Enter your choice: "
+    return input("Enter your choice: ")
